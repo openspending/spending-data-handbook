@@ -1,0 +1,31 @@
+id-sequence: [1283, 1666, 1667, 1668, 1669, 1670, 1671, 1672, 1673, 1674, 1675, 1676,
+  1678, 1679, 1680, 1681, 1682, 1683, 1684, 1685]
+root-name: https://github.com/openspending/spending-data-handbook/tree/master/markdown/
+source-tree:
+  children:
+  - {children: null, id: 1666, name: /1-introduction.md, parent: 1283, slug: introduction}
+  - {children: null, id: 1667, name: /2-data-driven-research.md, parent: 1283, slug: data-driven-research}
+  - {children: null, id: 1668, name: /3-introducing-data.md, parent: 1283, slug: introducing-data}
+  - {children: null, id: 1669, name: /4-types-of-spending-data.md, parent: 1283, slug: types-of-spending-data}
+  - {children: null, id: 1670, name: /5-reference-data.md, parent: 1283, slug: reference-data}
+  - {children: null, id: 1671, name: /6-machine-readable-data.md, parent: 1283, slug: machine-readable-data}
+  - {children: null, id: 1672, name: /7-data-processing-pipeline.md, parent: 1283,
+    slug: data-processing-pipeline}
+  - {children: null, id: 1673, name: /8-getting-data.md, parent: 1283, slug: getting-data}
+  - {children: null, id: 1674, name: /9-cleaning-data.md, parent: 1283, slug: cleaning-data}
+  - {children: null, id: 1675, name: /10-analysis.md, parent: 1283, slug: analysis}
+  - {children: null, id: 1676, name: /11-framing.md, parent: 1283, slug: framing}
+  - {children: null, id: 1677, name: /12-engaging-online.md, parent: 1283, slug: engaging-online}
+  - {children: null, id: 1678, name: /13-case-study-budgit.md, parent: 1283, slug: case-study-budgit}
+  - {children: null, id: 1679, name: /14-why-collaborate.md, parent: 1283, slug: why-collaborate}
+  - {children: null, id: 1680, name: /15-using-technology.md, parent: 1283, slug: using-technology}
+  - {children: null, id: 1681, name: /16-countering-arguments.md, parent: 1283, slug: countering-arguments}
+  - {children: null, id: 1682, name: /17-about-this-book.md, parent: 1283, slug: about-this-book}
+  - {children: null, id: 1683, name: /18-privacy-guide.md, parent: 1283, slug: privacy-guide}
+  - {children: null, id: 1684, name: /19-resources.md, parent: 1283, slug: resources}
+  - {children: null, id: 1685, name: /20-glossary.md, parent: 1283, slug: glossary}
+  id: 1283
+  name: /0-index.md
+  parent: 928
+  slug: handbook
+wp-site: http://community.openspending.org/
